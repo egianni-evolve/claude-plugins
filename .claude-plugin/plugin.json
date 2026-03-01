@@ -1,0 +1,10 @@
+{
+  "name": "notion-productivity",
+  "version": "0.1.0",
+  "description": "A complete productivity system for Notion — capture thoughts, create tasks, track areas of interest, set OKRs, and review weekly. Five interconnected skills with slash commands.",
+  "author": {
+    "name": "Erika Gianni"
+  },
+  "keywords": ["notion", "productivity", "okr", "brain-dump", "task-management", "weekly-review"],
+  "license": "MIT"
+}
